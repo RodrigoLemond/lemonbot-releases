@@ -1,5 +1,9 @@
 {
   "versoes": [
+    {"v": "0.1.4", "data": "27 jul", "itens": [
+      "Agora o bot recebe os jogos direto da nossa central ⚡",
+      "Ajustes nos bastidores pra ficar mais confiável"
+    ]},
     {"v": "0.1.3", "data": "26 jul", "itens": [
       "Cara nova! Visual repaginado, com abas e mais jeito de bot 🎨",
       "Esta aba de Histórico aqui, pra você acompanhar o que muda a cada update"
