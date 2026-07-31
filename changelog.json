@@ -1,5 +1,9 @@
 {
   "versoes": [
+    {"v": "0.1.5", "data": "27 jul", "itens": [
+      "Agora cabe direitinho em telas menores — o botão Iniciar não some mais 📱",
+      "Mercados de 1º tempo (Gols HT / Escanteios HT) aparecem como \"em breve\" enquanto validamos"
+    ]},
     {"v": "0.1.4", "data": "27 jul", "itens": [
       "Agora o bot recebe os jogos direto da nossa central ⚡",
       "Ajustes nos bastidores pra ficar mais confiável"
