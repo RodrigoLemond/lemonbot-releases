@@ -1,5 +1,9 @@
 {
   "versoes": [
+    {"v": "0.1.8", "data": "1 ago", "itens": [
+      "Correção importante: parar, reiniciar ou fechar o bot agora encerra tudo certinho — sem processos duplicados 🛠️",
+      "Mais estabilidade nos bastidores ⚙️"
+    ]},
     {"v": "0.1.7", "data": "1 ago", "itens": [
       "Apostas de escanteios voltaram a entrar direitinho 🏐",
       "Apostas de gols mais certeiras — sempre no mercado certo 🎯",
