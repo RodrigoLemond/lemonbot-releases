@@ -1,5 +1,11 @@
 {
   "versoes": [
+    {"v": "0.1.6", "data": "1 ago", "itens": [
+      "Tela de início mais limpa — agora é só a sua licença 🧹",
+      "Novo botão de Ajuda com as dúvidas mais comuns ❓",
+      "O Iniciar já salva suas configurações sozinho ✅",
+      "Apostas de escanteios mais certeiras (menos travadas e conflitos) 🎯"
+    ]},
     {"v": "0.1.5", "data": "27 jul", "itens": [
       "Agora cabe direitinho em telas menores — o botão Iniciar não some mais 📱",
       "Mercados de 1º tempo (Gols HT / Escanteios HT) aparecem como \"em breve\" enquanto validamos"
