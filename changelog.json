@@ -1,5 +1,10 @@
 {
   "versoes": [
+    {"v": "0.1.9", "data": "1 ago", "itens": [
+      "Ao ligar, o bot mostra os stakes de Gols e Escanteios na notificação 📊",
+      "Proteção reforçada contra apostas duplicadas 🛡️",
+      "Mais segurança e privacidade nos bastidores 🔒"
+    ]},
     {"v": "0.1.8", "data": "1 ago", "itens": [
       "Correção importante: parar, reiniciar ou fechar o bot agora encerra tudo certinho — sem processos duplicados 🛠️",
       "Mais estabilidade nos bastidores ⚙️"
