@@ -1,5 +1,10 @@
 {
   "versoes": [
+    {"v": "0.2.3", "data": "2 ago", "itens": [
+      "Escanteios mais certeiros: o bot confirma a aposta mesmo quando a odd muda na hora ✅",
+      "Se o escanteio sair antes da entrada, o bot cancela e te avisa o motivo — sem entrada atrasada 🛡️",
+      "Novo! Dá pra definir uma stake diferente por linha de gols: Over 3.5, 4.5 e 5.5 🎯"
+    ]},
     {"v": "0.2.2", "data": "2 ago", "itens": [
       "Seus dados de login ficam só no seu PC — ninguém mais acessa 🔒",
       "Proteção contra erro de digitação nos valores de aposta 🛡️",
