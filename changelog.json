@@ -1,5 +1,9 @@
 {
   "versoes": [
+    {"v": "0.2.0", "data": "2 ago", "itens": [
+      "Segurança reforçada — o app ficou mais protegido 🔒",
+      "Melhorias de desempenho e estabilidade ⚡"
+    ]},
     {"v": "0.1.9", "data": "1 ago", "itens": [
       "Ao ligar, o bot mostra os stakes de Gols e Escanteios na notificação 📊",
       "Proteção reforçada contra apostas duplicadas 🛡️",
