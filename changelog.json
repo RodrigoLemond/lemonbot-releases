@@ -1,5 +1,9 @@
 {
   "versoes": [
+    {"v": "0.2.4", "data": "3 ago", "itens": [
+      "Novo botão \"Testar login na Bet365\" — confira se seu login funciona antes de operar 🔎",
+      "O teste também avisa se o Google Chrome não está instalado no seu PC 🌐"
+    ]},
     {"v": "0.2.3", "data": "2 ago", "itens": [
       "Escanteios mais certeiros: o bot confirma a aposta mesmo quando a odd muda na hora ✅",
       "Se o escanteio sair antes da entrada, o bot cancela e te avisa o motivo — sem entrada atrasada 🛡️",
