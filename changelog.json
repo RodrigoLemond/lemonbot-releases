@@ -1,5 +1,11 @@
 {
   "versoes": [
+    {"v": "0.2.6", "data": "5 ago", "itens": [
+      "Notificacoes do Telegram mais claras para fila, entrada e confirmacao de aposta",
+      "Erros mais detalhados no painel para facilitar suporte: mercado fechado, clique rejeitado, recibo ausente e outros motivos",
+      "Novo botao Baixar logs no launcher para enviar diagnostico quando precisar",
+      "Icone oficial do LemonBot aplicado no app"
+    ]},
     {"v": "0.2.5", "data": "5 ago", "itens": [
       "Tela mais confortável: os blocos acompanham o tamanho da janela e o log ficou no topo 📋",
       "Gestão de banca mais limpa: stake padrão de gols e opções avançadas recolhidas ⚙️",
