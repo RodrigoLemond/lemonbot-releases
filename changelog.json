@@ -1,5 +1,10 @@
 {
   "versoes": [
+    {"v": "0.2.5", "data": "5 ago", "itens": [
+      "Tela mais confortável: os blocos acompanham o tamanho da janela e o log ficou no topo 📋",
+      "Gestão de banca mais limpa: stake padrão de gols e opções avançadas recolhidas ⚙️",
+      "Escanteios FT segue em validação — use uma stake baixa 🛡️"
+    ]},
     {"v": "0.2.4", "data": "3 ago", "itens": [
       "Novo botão \"Testar login na Bet365\" — confira se seu login funciona antes de operar 🔎",
       "O teste também avisa se o Google Chrome não está instalado no seu PC 🌐"
