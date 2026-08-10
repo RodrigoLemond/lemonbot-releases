@@ -1,5 +1,11 @@
 {
   "versoes": [
+    {"v": "0.2.8", "data": "10 ago", "itens": [
+      "🚨 CORREÇÃO IMPORTANTE — atualize assim que puder! Na 0.2.7 a confirmação de escanteios podia falhar quando a odd mudava na hora. Já está resolvido ✅",
+      "💰 Stake muito mais confiável: o bot agora confirma o valor digitado com calma, em vez de checar uma vez só. Se o seu PC for mais lento, essa é a melhoria que você mais vai sentir 🖥️",
+      "🛡️ O bot ignora sinais de jogos com dados desatualizados — nada de abrir a Bet365 por uma entrada que já passou",
+      "⚡ Todo o caminho da aposta agora ESPERA o que precisa acontecer, em vez de chutar um tempo fixo. Resultado: menos entrada perdida, principalmente em computador mais lento"
+    ]},
     {"v": "0.2.7", "data": "9 ago", "itens": [
       "🚀 A MAIOR atualização do LemonBot até hoje — 6 melhorias direto no coração da execução",
       "⚡ ACABOU o problema da odd que muda na hora! Nos minutos finais o preço do escanteio dança (1.60 → 1.625 → 1.65...) e antes o bot desistia no meio. Agora ele acompanha CADA mudança em tempo real e confirma a aposta. Testamos com 12 mudanças seguidas: entrou em todas ✅",
