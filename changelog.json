@@ -1,6 +1,18 @@
 {
   "versoes": [
     {
+      "v": "0.2.11",
+      "data": "11 ago",
+      "itens": [
+        "📒 NOVA ABA “Minhas apostas” — veja tudo que o bot fez por você nos últimos 7 dias: jogo, linha, valor, odd e o número do bilhete pra conferir na Bet365 ✅",
+        "🔎 Quando uma entrada não sai, agora você lê o motivo em português: “o escanteio saiu antes”, “não deu tempo de confirmar”. Chega de ficar no escuro",
+        "⏸️ Se o suporte pausar a operação, aparece um aviso na janela — antes você via o bot “rodando” sem apostar e ficava sem entender",
+        "🎯 Confirmação mais esperta: quando a Bet365 troca o botão de lugar no meio da odd mudando, o bot reconhece a troca em vez de clicar no lugar errado",
+        "🔁 Se o botão de aceitar a odd nova demora a aparecer, o bot espera em vez de desistir — era uma das causas de entrada perdida em PC mais lento",
+        "🧾 Correções validadas com aposta REAL antes de chegar em você, como na versão anterior"
+      ]
+    },
+    {
       "v": "0.2.10",
       "data": "11 ago",
       "itens": [
