@@ -1,6 +1,18 @@
 {
   "versoes": [
     {
+      "v": "0.2.10",
+      "data": "11 ago",
+      "itens": [
+        "🚨 ATUALIZE AGORA — esta corrige o problema mais caro que o bot já teve. Quando a odd mudava na hora de confirmar, a aposta simplesmente NÃO ENTRAVA. Resolvido e testado com aposta real ✅",
+        "🔍 A causa: a Bet365 TROCA o botão de lugar quando a odd muda — o bot clicava onde o botão estava, não onde ele foi parar. Agora ele reconhece a troca e clica no botão certo",
+        "🎯 Isso acontecia justamente nas entradas mais disputadas, quando a odd está se mexendo. Cada vez que acontecia era uma entrada perdida — e você nem via o motivo",
+        "💪 Voltamos a confirmação para a versão com histórico comprovado: 18 apostas confirmadas contra zero da anterior. Menos experimento, mais o que funciona",
+        "⚡ Confirmação agora leva ~9s em vez de ~15s quando a odd muda — mais rápido dentro da janela em que o preço corre",
+        "🧾 Cada correção desta versão foi validada com aposta REAL antes de chegar em você, não só em teste"
+      ]
+    },
+    {
       "v": "0.2.9",
       "data": "11 ago",
       "itens": [
