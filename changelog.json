@@ -1,90 +1,177 @@
 {
   "versoes": [
-    {"v": "0.2.8", "data": "10 ago", "itens": [
-      "🚨 CORREÇÃO IMPORTANTE — atualize assim que puder! Na 0.2.7 a confirmação de escanteios podia falhar quando a odd mudava na hora. Já está resolvido ✅",
-      "💰 Stake muito mais confiável: o bot agora confirma o valor digitado com calma, em vez de checar uma vez só. Se o seu PC for mais lento, essa é a melhoria que você mais vai sentir 🖥️",
-      "🛡️ O bot ignora sinais de jogos com dados desatualizados — nada de abrir a Bet365 por uma entrada que já passou",
-      "⚡ Todo o caminho da aposta agora ESPERA o que precisa acontecer, em vez de chutar um tempo fixo. Resultado: menos entrada perdida, principalmente em computador mais lento"
-    ]},
-    {"v": "0.2.7", "data": "9 ago", "itens": [
-      "🚀 A MAIOR atualização do LemonBot até hoje — 6 melhorias direto no coração da execução",
-      "⚡ ACABOU o problema da odd que muda na hora! Nos minutos finais o preço do escanteio dança (1.60 → 1.625 → 1.65...) e antes o bot desistia no meio. Agora ele acompanha CADA mudança em tempo real e confirma a aposta. Testamos com 12 mudanças seguidas: entrou em todas ✅",
-      "🎯 O bot NUNCA MAIS aposta numa linha diferente da que foi sinalizada. Se o escanteio sair antes da entrada, ele cancela na hora e te explica o motivo — chega de entrar numa linha que já era 🛡️",
-      "⏱️ Jogos em sequência entram até 40 SEGUNDOS mais rápido — o bot reaproveita a sessão já aberta em vez de logar tudo de novo 🏎️",
-      "🔒 Menos logins na Bet365 = sua conta mais protegida e mais estável",
-      "🔄 Se a aba de escanteios não abrir, o bot se recupera sozinho — antes ele ficava parado esperando na tela errada",
-      "🧠 Limite inteligente de tentativas: o bot sabe a diferença entre um errinho passageiro (tenta de novo) e um problema sério (para na hora, protegendo sua conta)",
-      "💪 Resultado de tudo isso: mais entradas confirmadas, menos oportunidades perdidas e mais velocidade em cada aposta"
-    ]},
-    {"v": "0.2.6", "data": "5 ago", "itens": [
-      "Notificacoes do Telegram mais claras para fila, entrada e confirmacao de aposta",
-      "Erros mais detalhados no painel para facilitar suporte: mercado fechado, clique rejeitado, recibo ausente e outros motivos",
-      "Novo botao Baixar logs no launcher para enviar diagnostico quando precisar",
-      "Icone oficial do LemonBot aplicado no app"
-    ]},
-    {"v": "0.2.5", "data": "5 ago", "itens": [
-      "Tela mais confortável: os blocos acompanham o tamanho da janela e o log ficou no topo 📋",
-      "Gestão de banca mais limpa: stake padrão de gols e opções avançadas recolhidas ⚙️",
-      "Escanteios FT segue em validação — use uma stake baixa 🛡️"
-    ]},
-    {"v": "0.2.4", "data": "3 ago", "itens": [
-      "Novo botão \"Testar login na Bet365\" — confira se seu login funciona antes de operar 🔎",
-      "O teste também avisa se o Google Chrome não está instalado no seu PC 🌐"
-    ]},
-    {"v": "0.2.3", "data": "2 ago", "itens": [
-      "Escanteios mais certeiros: o bot confirma a aposta mesmo quando a odd muda na hora ✅",
-      "Se o escanteio sair antes da entrada, o bot cancela e te avisa o motivo — sem entrada atrasada 🛡️",
-      "Novo! Dá pra definir uma stake diferente por linha de gols: Over 3.5, 4.5 e 5.5 🎯"
-    ]},
-    {"v": "0.2.2", "data": "2 ago", "itens": [
-      "Seus dados de login ficam só no seu PC — ninguém mais acessa 🔒",
-      "Proteção contra erro de digitação nos valores de aposta 🛡️",
-      "Status mais claro quando o bot está operando ✅"
-    ]},
-    {"v": "0.2.1", "data": "2 ago", "itens": [
-      "Segurança reforçada — o app ficou mais protegido 🔒",
-      "Melhorias de desempenho e estabilidade ⚡"
-    ]},
-    {"v": "0.1.9", "data": "1 ago", "itens": [
-      "Ao ligar, o bot mostra os stakes de Gols e Escanteios na notificação 📊",
-      "Proteção reforçada contra apostas duplicadas 🛡️",
-      "Mais segurança e privacidade nos bastidores 🔒"
-    ]},
-    {"v": "0.1.8", "data": "1 ago", "itens": [
-      "Correção importante: parar, reiniciar ou fechar o bot agora encerra tudo certinho — sem processos duplicados 🛠️",
-      "Mais estabilidade nos bastidores ⚙️"
-    ]},
-    {"v": "0.1.7", "data": "1 ago", "itens": [
-      "Apostas de escanteios voltaram a entrar direitinho 🏐",
-      "Apostas de gols mais certeiras — sempre no mercado certo 🎯",
-      "Nova ajuda pra configurar as notificações no Telegram ✈️"
-    ]},
-    {"v": "0.1.6", "data": "1 ago", "itens": [
-      "Tela de início mais limpa — agora é só a sua licença 🧹",
-      "Novo botão de Ajuda com as dúvidas mais comuns ❓",
-      "O Iniciar já salva suas configurações sozinho ✅",
-      "Apostas de escanteios mais certeiras (menos travadas e conflitos) 🎯"
-    ]},
-    {"v": "0.1.5", "data": "27 jul", "itens": [
-      "Agora cabe direitinho em telas menores — o botão Iniciar não some mais 📱",
-      "Mercados de 1º tempo (Gols HT / Escanteios HT) aparecem como \"em breve\" enquanto validamos"
-    ]},
-    {"v": "0.1.4", "data": "27 jul", "itens": [
-      "Agora o bot recebe os jogos direto da nossa central ⚡",
-      "Ajustes nos bastidores pra ficar mais confiável"
-    ]},
-    {"v": "0.1.3", "data": "26 jul", "itens": [
-      "Cara nova! Visual repaginado, com abas e mais jeito de bot 🎨",
-      "Esta aba de Histórico aqui, pra você acompanhar o que muda a cada update"
-    ]},
-    {"v": "0.1.2", "data": "26 jul", "itens": [
-      "O botão Parar agora deixa o bot offline na hora"
-    ]},
-    {"v": "0.1.1", "data": "26 jul", "itens": [
-      "Auto-atualização! As novidades passam a chegar sozinhas pra você ✨"
-    ]},
-    {"v": "0.1.0", "data": "26 jul", "itens": [
-      "Nasceu o LemonBot 🍋 — login por licença, painel e operação (iniciar/parar)"
-    ]}
+    {
+      "v": "0.2.9",
+      "data": "11 ago",
+      "itens": [
+        "🚨 CORREÇÃO CRÍTICA — atualize AGORA. Quando a odd mudava na hora de confirmar, o bot via o botão de \"Aceitar alteração\" e não clicava nele: a entrada morria ali, sem nova tentativa. Isso acabou ✅",
+        "🎯 Isso não era raro: a odd se mexer no momento da confirmação é o cenário MAIS COMUM da janela de entrada. Cada vez que acontecia, era uma entrada perdida que você nem via",
+        "🛡️ O bot agora abre UM navegador por vez, sempre. Antes, vários jogos aquecendo ao mesmo tempo podiam abrir vários Chrome na sua conta — pesava o PC e chamava atenção da casa",
+        "🔁 Se a Bet365 recusar o clique na odd, o bot dá F5 e clica de novo sozinho, em vez de desistir da tentativa",
+        "⚡ Quando a linha asiática de escanteios muda durante o F5, o bot re-mira na linha vigente em vez de procurar uma que não existe mais",
+        "💾 Queda de energia ou reinício no meio de uma aposta não causa mais aposta repetida — o bot agora lembra em disco o que já apostou",
+        "📒 Novo EXTRATO: uma planilha com TUDO que o bot apostou de verdade — linha, valor, odd, se confirmou e o número do bilhete. Agora dá pra conferir o desempenho real, não só o do sinal",
+        "🏳️ Quando o escanteio sai antes da entrada, o bot registra se a linha nova ainda tinha preço — pra você saber quanto essa proteção custa ou salva",
+        "🧹 Menos peso no seu PC: o bot deixou de reprocessar centenas de jogos já encerrados a cada ciclo"
+      ]
+    },
+    {
+      "v": "0.2.8",
+      "data": "10 ago",
+      "itens": [
+        "🚨 CORREÇÃO IMPORTANTE — atualize assim que puder! Na 0.2.7 a confirmação de escanteios podia falhar quando a odd mudava na hora. Já está resolvido ✅",
+        "💰 Stake muito mais confiável: o bot agora confirma o valor digitado com calma, em vez de checar uma vez só. Se o seu PC for mais lento, essa é a melhoria que você mais vai sentir 🖥️",
+        "🛡️ O bot ignora sinais de jogos com dados desatualizados — nada de abrir a Bet365 por uma entrada que já passou",
+        "⚡ Todo o caminho da aposta agora ESPERA o que precisa acontecer, em vez de chutar um tempo fixo. Resultado: menos entrada perdida, principalmente em computador mais lento"
+      ]
+    },
+    {
+      "v": "0.2.7",
+      "data": "9 ago",
+      "itens": [
+        "🚀 A MAIOR atualização do LemonBot até hoje — 6 melhorias direto no coração da execução",
+        "⚡ ACABOU o problema da odd que muda na hora! Nos minutos finais o preço do escanteio dança (1.60 → 1.625 → 1.65...) e antes o bot desistia no meio. Agora ele acompanha CADA mudança em tempo real e confirma a aposta. Testamos com 12 mudanças seguidas: entrou em todas ✅",
+        "🎯 O bot NUNCA MAIS aposta numa linha diferente da que foi sinalizada. Se o escanteio sair antes da entrada, ele cancela na hora e te explica o motivo — chega de entrar numa linha que já era 🛡️",
+        "⏱️ Jogos em sequência entram até 40 SEGUNDOS mais rápido — o bot reaproveita a sessão já aberta em vez de logar tudo de novo 🏎️",
+        "🔒 Menos logins na Bet365 = sua conta mais protegida e mais estável",
+        "🔄 Se a aba de escanteios não abrir, o bot se recupera sozinho — antes ele ficava parado esperando na tela errada",
+        "🧠 Limite inteligente de tentativas: o bot sabe a diferença entre um errinho passageiro (tenta de novo) e um problema sério (para na hora, protegendo sua conta)",
+        "💪 Resultado de tudo isso: mais entradas confirmadas, menos oportunidades perdidas e mais velocidade em cada aposta"
+      ]
+    },
+    {
+      "v": "0.2.6",
+      "data": "5 ago",
+      "itens": [
+        "Notificacoes do Telegram mais claras para fila, entrada e confirmacao de aposta",
+        "Erros mais detalhados no painel para facilitar suporte: mercado fechado, clique rejeitado, recibo ausente e outros motivos",
+        "Novo botao Baixar logs no launcher para enviar diagnostico quando precisar",
+        "Icone oficial do LemonBot aplicado no app"
+      ]
+    },
+    {
+      "v": "0.2.5",
+      "data": "5 ago",
+      "itens": [
+        "Tela mais confortável: os blocos acompanham o tamanho da janela e o log ficou no topo 📋",
+        "Gestão de banca mais limpa: stake padrão de gols e opções avançadas recolhidas ⚙️",
+        "Escanteios FT segue em validação — use uma stake baixa 🛡️"
+      ]
+    },
+    {
+      "v": "0.2.4",
+      "data": "3 ago",
+      "itens": [
+        "Novo botão \"Testar login na Bet365\" — confira se seu login funciona antes de operar 🔎",
+        "O teste também avisa se o Google Chrome não está instalado no seu PC 🌐"
+      ]
+    },
+    {
+      "v": "0.2.3",
+      "data": "2 ago",
+      "itens": [
+        "Escanteios mais certeiros: o bot confirma a aposta mesmo quando a odd muda na hora ✅",
+        "Se o escanteio sair antes da entrada, o bot cancela e te avisa o motivo — sem entrada atrasada 🛡️",
+        "Novo! Dá pra definir uma stake diferente por linha de gols: Over 3.5, 4.5 e 5.5 🎯"
+      ]
+    },
+    {
+      "v": "0.2.2",
+      "data": "2 ago",
+      "itens": [
+        "Seus dados de login ficam só no seu PC — ninguém mais acessa 🔒",
+        "Proteção contra erro de digitação nos valores de aposta 🛡️",
+        "Status mais claro quando o bot está operando ✅"
+      ]
+    },
+    {
+      "v": "0.2.1",
+      "data": "2 ago",
+      "itens": [
+        "Segurança reforçada — o app ficou mais protegido 🔒",
+        "Melhorias de desempenho e estabilidade ⚡"
+      ]
+    },
+    {
+      "v": "0.1.9",
+      "data": "1 ago",
+      "itens": [
+        "Ao ligar, o bot mostra os stakes de Gols e Escanteios na notificação 📊",
+        "Proteção reforçada contra apostas duplicadas 🛡️",
+        "Mais segurança e privacidade nos bastidores 🔒"
+      ]
+    },
+    {
+      "v": "0.1.8",
+      "data": "1 ago",
+      "itens": [
+        "Correção importante: parar, reiniciar ou fechar o bot agora encerra tudo certinho — sem processos duplicados 🛠️",
+        "Mais estabilidade nos bastidores ⚙️"
+      ]
+    },
+    {
+      "v": "0.1.7",
+      "data": "1 ago",
+      "itens": [
+        "Apostas de escanteios voltaram a entrar direitinho 🏐",
+        "Apostas de gols mais certeiras — sempre no mercado certo 🎯",
+        "Nova ajuda pra configurar as notificações no Telegram ✈️"
+      ]
+    },
+    {
+      "v": "0.1.6",
+      "data": "1 ago",
+      "itens": [
+        "Tela de início mais limpa — agora é só a sua licença 🧹",
+        "Novo botão de Ajuda com as dúvidas mais comuns ❓",
+        "O Iniciar já salva suas configurações sozinho ✅",
+        "Apostas de escanteios mais certeiras (menos travadas e conflitos) 🎯"
+      ]
+    },
+    {
+      "v": "0.1.5",
+      "data": "27 jul",
+      "itens": [
+        "Agora cabe direitinho em telas menores — o botão Iniciar não some mais 📱",
+        "Mercados de 1º tempo (Gols HT / Escanteios HT) aparecem como \"em breve\" enquanto validamos"
+      ]
+    },
+    {
+      "v": "0.1.4",
+      "data": "27 jul",
+      "itens": [
+        "Agora o bot recebe os jogos direto da nossa central ⚡",
+        "Ajustes nos bastidores pra ficar mais confiável"
+      ]
+    },
+    {
+      "v": "0.1.3",
+      "data": "26 jul",
+      "itens": [
+        "Cara nova! Visual repaginado, com abas e mais jeito de bot 🎨",
+        "Esta aba de Histórico aqui, pra você acompanhar o que muda a cada update"
+      ]
+    },
+    {
+      "v": "0.1.2",
+      "data": "26 jul",
+      "itens": [
+        "O botão Parar agora deixa o bot offline na hora"
+      ]
+    },
+    {
+      "v": "0.1.1",
+      "data": "26 jul",
+      "itens": [
+        "Auto-atualização! As novidades passam a chegar sozinhas pra você ✨"
+      ]
+    },
+    {
+      "v": "0.1.0",
+      "data": "26 jul",
+      "itens": [
+        "Nasceu o LemonBot 🍋 — login por licença, painel e operação (iniciar/parar)"
+      ]
+    }
   ]
 }
