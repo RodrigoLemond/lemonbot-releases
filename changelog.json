@@ -1,6 +1,20 @@
 {
   "versoes": [
     {
+      "v": "0.2.12",
+      "data": "14 ago",
+      "itens": [
+        "💰 CORREÇÃO IMPORTANTE pra quem aposta valor alto: stake de R$1.000 ou mais NUNCA era confirmada e a entrada não saía. A Bet365 escreve 1250 como “1.250”, e o bot não reconhecia o próprio valor que tinha acabado de digitar. Se você opera com quatro dígitos, esta versão destrava suas entradas ✅",
+        "🧾 A aposta que JÁ ENTROU nunca mais é tentada de novo. Aconteceu de o bilhete sair, o valor sair da conta, e o bot achar que tinha falhado — e tentar outra vez no mesmo jogo. Agora, se o bilhete existe, ele reconhece e encerra ali ✅",
+        "📐 O bot CANCELA a entrada se a Bet365 trocar a linha no meio da confirmação. Entre clicar a odd e confirmar, um escanteio pode sair e a casa mudar a linha (de Over 9.5 para 10.5, por exemplo). Antes ele aceitava sem perceber; agora confere — aposta mais difícil do que a sinalizada não entra",
+        "🛡️ Essa conferência nunca te custa uma entrada: se o bot não conseguir ler a linha do cupom com certeza, ele segue e aposta normal, como sempre fez. Ela só age quando tem certeza de que a linha piorou",
+        "🧑‍⚖️ Aviso quando a Bet365 manda seu bilhete para APROVAÇÃO MANUAL. Acontece com stake mais alta em mercado pequeno: a casa segura a aposta para um analista aprovar. Antes isso virava “falhou” sem explicação — agora você lê o motivo certo e sabe que precisa conferir na conta",
+        "✅ A aba “Minhas apostas” agora mostra se você GANHOU ou PERDEU. Cada entrada aparece com o resultado, e o dia traz o placar (“2 ganhou · 1 perdeu”). Enquanto o jogo rola, fica “aguardando resultado”",
+        "🎯 Resultado de escanteio mais fiel: passa a ser julgado pela linha em que a aposta REALMENTE entrou, não pela linha do sinal. É o que faz o GANHOU/PERDEU bater com o seu extrato da Bet365",
+        "🔍 Jogos com o nome abreviado deixam de ser perdidos. Quando a Bet365 mostra o time pela sigla (LAFC no lugar de Los Angeles FC), o bot não reconhecia o jogo e cancelava — mesmo com o outro time batendo certinho"
+      ]
+    },
+    {
       "v": "0.2.11",
       "data": "11 ago",
       "itens": [
